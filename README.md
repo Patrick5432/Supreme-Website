@@ -1,1 +1,1 @@
-https://supreme-lobby.vercel.app/
+https://supreme-website.vercel.app/
