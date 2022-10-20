@@ -40,28 +40,28 @@ body {
     margin: 0 auto;
 }
 
-.header {
+header {
     padding-top: 180px;
 }
 
-.header .logo-p {
+header .data {
     display: flex;
     justify-content: center;
     padding-top: 38px;
 }
 
-.header .new {
+header nav {
     display: flex;
     justify-content: flex-start;
     padding-top: 80px;
 }
 
-.new-ul {
+.news {
     display: flex;
     flex-direction: column;
 }
 
-.new-li {
+.news li {
     padding-top: 20px;
 }
 
