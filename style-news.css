@@ -30,7 +30,7 @@ body {
     margin: 0 auto;
 }
 
-.logo {
+header {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -115,13 +115,21 @@ body {
 }
 
 @media screen and (max-width: 689px) {
+    header {
+        padding-top: 60px;
+    }
+
+    .text {
+        width: auto;
+    }
+
     .text-news {
         display: flex;
         flex-direction: column;
-
+        padding-bottom: 70px;
     }
 
-    .logo{
+    header{
         width: 100%;
         max-width: auto;
     }
